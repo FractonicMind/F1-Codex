@@ -1,0 +1,3 @@
+# Ethics: The Sacred 0
+
+Coding with conscience means pausing when in doubt...
